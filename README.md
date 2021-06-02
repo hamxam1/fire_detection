@@ -1,1 +1,1 @@
-# fire_detection
+#This is Fire Detection Library . Just have to install it and run the file for fire detection by CCTV.
